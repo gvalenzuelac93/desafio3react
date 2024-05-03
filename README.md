@@ -1,8 +1,7 @@
-# React + Vite
+Desafio React 3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Realicé este desafío de manera individual.
 
-Currently, two official plugins are available:
+Adicionalmente hice un deploy del proyecto en Vercel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://desafio3react.vercel.app
